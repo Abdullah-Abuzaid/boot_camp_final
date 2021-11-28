@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283934796050",
+    "project_id": "bootcamp-finale",
+    "storage_bucket": "bootcamp-finale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283934796050:android:c3abed7d8e3f9fece16bcb",
+        "android_client_info": {
+          "package_name": "com.example.boot_camp_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283934796050-a46oj75vjsih63ni5a0asf65e9nc9o58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU1nN_aTc7MyEgCQ8d4Nn31h06-ZI5dHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283934796050-a46oj75vjsih63ni5a0asf65e9nc9o58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
